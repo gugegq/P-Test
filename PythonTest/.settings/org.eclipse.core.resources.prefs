@@ -1,5 +1,7 @@
 eclipse.preferences.version=1
 encoding//src/basic/BasePage.py=utf-8
+encoding//src/basic/LoginPage.py=utf-8
 encoding//src/basic/__init__.py=utf-8
+encoding//src/test/TC_LoginEmail.py=utf-8
 encoding//src/test/test01.py=utf-8
 encoding//src/test/test02.py=utf-8
