@@ -1,0 +1,18 @@
+1542873055203	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\qiao.gu\\AppData\\Local\\Temp\\rust_mozprofile.P3CoA1AXLCI5"
+1542873059147	Marionette	INFO	Listening on port 57326
+1542873059603	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sbeacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript warning: https://n.sinaimg.cn/index/js/shms2.js?v=20180614, line 289: unreachable code after return statement
+1542873086285	Marionette	INFO	Stopped listening on port 57326
+[Parent 12500, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x980006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+[Child 30248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 3052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
